@@ -11,6 +11,11 @@
 2. **Staging area**: the area in which the snapshots of the project are being prepared.
 
 3. **Local repository**: the place that holds the snapshot of the timeline. Identified by the `.git` directory. 
+
+4. **Remote repository**:
+
+
+
 - Why use the staging area?
 
 **Answer**: using the stage area allows you to prepare a bunch of files that are related and, then, make an unique commit with them.
