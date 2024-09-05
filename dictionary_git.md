@@ -1,45 +1,13 @@
-# Dictionary Terms 0 Git & GitHub
-
-## subitem
-
-
+# Dictionary Terms - Git & GitHub
 
 - **Git**: is a versioning control system, tracking the changes that has occured on it.
 
-
-
 - **GitHub**: is a way of keeping the history of changes in a project.
 
+##Conceptual areas
 
+1. **Developer area**: the folder where the project is being developed.
 
+2. **Staging area**: the area in which the snapshots of the project are being prepared.
 
-
-
-
-
-
-
-
-
-
-*italic*
-
-
-
-`location $ ls -lisa`
-
-***bold italic***
-
-
-
-
-
-```
-Firt line of code
-This is the second line
-And the third
-```
-
-
-
-
+3. **Local repository**: the place that holds the snapshot of the timeline. Identified by the `.git` directory. 
