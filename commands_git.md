@@ -12,3 +12,11 @@ git commit -m "meaningful_message"
 ```
 
 
+
+Command to check the status of files/directories in the project:
+
+```
+git status
+```
+
+
