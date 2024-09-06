@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Commands from Git
 
 ## Basic routine for commiting
@@ -59,3 +60,8 @@ Command to change the context to a branch:
 git checkout <branch_name>
 ```
 **Note**: this is used also for going to the master (main) branch.
+
+Command to checkout to a point in the past
+```
+git checkout <commit_id>
+```
