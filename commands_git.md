@@ -43,7 +43,10 @@ or
 git show <commit_id1> <commit_id2>
 ```
 
-
+Command to checkout to a point in the past
+```
+git checkout <commit_id>
+```
 
 
 
