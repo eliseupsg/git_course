@@ -12,7 +12,7 @@
 
 3. **Local repository**: the place that holds the snapshot of the timeline. Identified by the `.git` directory. 
 
-4. **Remote repository**:
+4. **Remote repository**: a remote repository in which you can push the changes and pull an updated project.
 
 
 
