@@ -43,5 +43,7 @@ or
 git show <commit_id1> <commit_id2>
 ```
 
+Weird line here
+
 # What have I done?
 What?
