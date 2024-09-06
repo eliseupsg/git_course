@@ -31,3 +31,9 @@
 3. When?
 
 **Answer**: anytime you get into one of the possibilities of the *Why?* question.
+
+## Checkout to a commit
+You can go to a specific commit, but you **really** should be careful about it.
+
+## Tags
+Writing tags is a good way of getting specific versions/releases of your material. It can be fun to try this!

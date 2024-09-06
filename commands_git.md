@@ -65,3 +65,9 @@ Command to checkout to a point in the past
 ```
 git checkout <commit_id>
 ```
+
+Command to create a tag for the current commit:
+```
+git tag <tag_name>
+```
+**Note**: when pushing, you must remember to use the *--tags* option in ```git push``` to push the tags to GitHub.
