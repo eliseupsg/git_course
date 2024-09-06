@@ -47,3 +47,15 @@ Weird line here
 
 # What have I done?
 What?
+
+Command to create a branch:
+```
+git branch <branch_name>
+```
+
+
+Command to change the context to a branch:
+```
+git checkout <branch_name>
+```
+**Note**: this is used also for going to the master (main) branch.

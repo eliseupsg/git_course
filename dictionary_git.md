@@ -19,3 +19,15 @@
 - Why use the staging area?
 
 **Answer**: using the stage area allows you to prepare a bunch of files that are related and, then, make an unique commit with them.
+
+## Branches
+
+1. What?
+
+**Answer**: branches are deviations from the original timeline.
+2. Why?
+
+**Answer**: you can use this for developing some feature with no risk to the master (main) timeline or to collaborate developing different approaches of a feature that are going to be compared later.
+3. When?
+
+**Answer**: anytime you get into one of the possibilities of the *Why?* question.
