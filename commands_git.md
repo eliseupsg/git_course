@@ -43,10 +43,25 @@ or
 git show <commit_id1> <commit_id2>
 ```
 
+Command to create the conection between the local repository and the remote repository 
+```
+git remote add origin git@github.com:<username>/<remote_repository>.git
+```
+
+Command to push the changes to the remote repository
+```
+git push
+```
+**Note**: if it is the first time you push, it is necessary to use ```git push --set-upstream origin master```
+
+```
+git clone
+```
+
+```
+git pull
+```
 
 
 
-
-
-
-
+Weird line here
